@@ -1,0 +1,7 @@
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\bin\Release\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\bin\Release\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Release\spectr_Furie.Form1.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Release\spectr_Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Release\spectr_Furie.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Release\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Release\spectr_Furie.pdb

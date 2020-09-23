@@ -1,0 +1,24 @@
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\bin\Debug\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\bin\Debug\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.Form1.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.Form1.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\obj\Debug\spectr_Furie.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\bin\Debug\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie\spectr_Furie\bin\Debug\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\obj\Debug\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\obj\Debug\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\bin\Debug\spectr_Furie.exe
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\bin\Debug\spectr_Furie.pdb
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\obj\Debug\spectr_Furie.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\obj\Debug\spectr_Furie.Form1.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\obj\Debug\spectr_Furie.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Documents\5 КУРС\Практика Панищев\spectr_Furie_copy\spectr_Furie\obj\Debug\spectr_Furie.csproj.GenerateResource.Cache
